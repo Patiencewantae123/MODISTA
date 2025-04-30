@@ -48,7 +48,8 @@ Before running the app, make sure you have:
 |-------------|----------------|-----------------|
 |![Screenshot 2024-11-13 135743](https://github.com/user-attachments/assets/c75f3226-3919-442d-8ada-f2977808a32a)
 
-n) | ![Profile](https://via.placeholder.com/300x600?text=Profile+Screen) | ![Wardrobe](https://via.placeholder.com/300x600?text=Wardrobe+Screen) |
+n) | ![Screenshot 2024-11-12 140242](https://github.com/user-attachments/assets/6a78f206-926f-46ba-97be-88d1e8ddfe69)
+ | ![Wardrobe](https://via.placeholder.com/300x600?text=Wardrobe+Screen) |
 
 ---
 
