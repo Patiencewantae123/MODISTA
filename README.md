@@ -46,7 +46,8 @@ Before running the app, make sure you have:
 
 | Home Screen | Profile Screen | Wardrobe Screen |
 |-------------|----------------|-----------------|
-| ![Home](https://via.placeholder.com/300x600?text=Home+Screen) | ![Profile](https://via.placeholder.com/300x600?text=Profile+Screen) | ![Wardrobe](https://via.placeholder.com/300x600?text=Wardrobe+Screen) |
+| ![Home](https://via.placeholder.com/300x600?text=Home+Scree![Uploading Screenshot 2024-11-13 135743.png…]()
+n) | ![Profile](https://via.placeholder.com/300x600?text=Profile+Screen) | ![Wardrobe](https://via.placeholder.com/300x600?text=Wardrobe+Screen) |
 
 ---
 
