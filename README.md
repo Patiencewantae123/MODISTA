@@ -1,6 +1,3 @@
-Here’s a sample `README.md` file for your **Modista Fashion App** repository. This version includes aesthetic icons, sections with clear headings, and Markdown styling to make it visually appealing on GitHub.
-
-```markdown
 # 🌟 **Modista Fashion App** 🌟
 
 Welcome to **Modista**, your ultimate fashion companion app. Modista combines style, innovation, and technology to bring you the best in fashion recommendations, wardrobe management, and trend analysis. 👗👔✨
